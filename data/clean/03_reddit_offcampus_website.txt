@@ -1,0 +1,95 @@
+r/uichicago — Is the UIC off-campus housing website actually useful or just boomer landlord posts?
+
+Posted by u/skeptical_sophomore — 6 months ago
+
+Every upperclassman tells me to use the UIC off-campus housing website. I made an account and honestly it looks like it was designed in 2009. Half the listings have blurry photos and the map view barely works on mobile.
+
+Is it worth my time or should I just live on Zillow? Also can my friend from Columbia College use it or is it UIC-only? They're looking near us anyway.
+
+---
+
+u/landlord_adjacent — 6 months ago
+
+UIC-only for posting and full access — you need a UIC NetID to . Columbia students can't register. That said, if your roommate is UIC, they can forward listings. Some landlords post the same unit on Domu and the UIC site simultaneously.
+
+What it's actually useful for:
+- Landlords who specifically want UIC tenants (they know the academic year)
+- Roommate matching board — underrated
+- Sublease postings from students leaving for study abroad or graduating
+- Occasionally faculty/staff rentals in quieter areas
+
+What it's NOT:
+- A property manager — they don't vet every listing like a full service
+- Comprehensive — many big buildings list only on their own sites
+- Real-time — landlords forget to mark units rented; always email to confirm
+
+I found my current 2BR in University Village through UIC's site. Rent was $100/month less than the same landlord's Zillow listing because they listed UIC first for faster fill.
+
+---
+
+u/cs_major_who_reads — 6 months ago
+
+Navigation tips since the UI is rough:
+
+1. with NetID at the Off-Campus Housing portal (linked from CSRC site, not the main uic.edu homepage — search "UIC off-campus housing listings")
+2. Use Advanced Search: set max rent, bedrooms, neighborhood tags
+3. Sort by date posted, not price — stale cheap listings are often gone
+4. searches if the site offers email alerts (it does for some categories)
+5. Roommate tab is separate from rentals — don't miss it
+
+Mobile: use desktop mode or just use email alerts and open on laptop. Seriously.
+
+For non-UIC friends: Domu, Apartments.com, Facebook marketplace. They won't miss much except UIC-specific subleases.
+
+---
+
+u/grad_student_housing — 6 months ago
+
+I'm a PhD student who also browses as a "landlord" test for my department's wiki. The site is maintained by Off-Campus Housing / CSRC staff. They'll remove obvious scams if reported. You can contact them if a listing seems fraudulent — they're more responsive than Zillow's button.
+
+Landlords pay a small fee to post (or it's free for X months — policy changes). That filters out some spam but not all.
+
+Compared to University Rentals' site: UR has their own inventory only. UIC site aggregates independent landlords plus some management companies. Compared to Tripalink or UHomes: those are national aggregators with paid placements — UIC site is local and student-focused.
+
+---
+
+u/skeptical_sophomore — 6 months ago
+
+Does anyone actually get scammed on there or is it relatively safe?
+
+---
+
+u/housing_paranoia — 6 months ago
+
+Scams happen everywhere but UIC site scams are rarer than Facebook because you need a NetID to post as a student subletter and landlords go through a registration. Still verify:
+
+- Google the address — does it match photos?
+- Reverse image search listing photos
+- Meet at the property, not a Starbucks in the suburbs
+- Never pay via wire, crypto, or Venmo before keys
+
+Red flags on UIC site specifically: listing posted for 6+ months at below-market rent, landlord only uses Gmail with no phone, refuses in-person showing.
+
+I reported one fake sublease last year and CSRC pulled it within 48 hours.
+
+---
+
+u/helpful_freshman — 6 months ago
+
+The roommate board saved me. I'm introverted and wasn't going to random roommate mixers. Found a quiet public health major who also goes to bed before midnight. We've been living in Pilsen 14 months, no drama.
+
+Post early, be specific about lifestyle, and meet in a public place before signing together.
+
+---
+
+u/skeptical_sophomore — 6 months ago
+
+Alright I'm convinced. I'll use UIC site as primary and Zillow as backup. Thanks for the navigation tips — desktop mode is a game changer apparently.
+
+---
+
+u/landlord_adjacent — 6 months ago
+
+One more thing: favorite listings before emailing. When you email, include your move-in date, whether you're undergrad or grad, and that you have a U-Pass. Landlords near UIC get 50 identical "is this available" emails. Stand out.
+
+ · 203 comments ·
