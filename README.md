@@ -15,6 +15,8 @@
      course descriptions don't reflect teaching style, exam difficulty, or workload." -->
 
 ---
+My domain is student-generated knowledge about off-campus housing near UIC. This knowledge is hard to find through official channels because university pages list available resources and policies, but they do not capture the real-world advice students share about rent, roommates, neighborhood tradeoffs, commute time, safety, and which apartment-search methods actually work.
+This information is also scattered across Reddit threads, listing sites, and informal discussion posts instead of being organized in one place. A RAG system makes it searchable and grounded so students can quickly get practical answers from real student experiences.
 
 ## Document Sources
 
